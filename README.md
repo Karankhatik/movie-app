@@ -24,21 +24,9 @@ Your details will be stored in local storage so that they can be retrieved when 
 ![image](https://user-images.githubusercontent.com/100562135/236326402-affc0217-e346-4157-b7fe-82aeecf5623a.png)
 
 ## Movie Summary 
-![image](https://user-images.githubusercontent.com/100562135/236326654-fa245dbc-c9f5-42db-98ca-7e8dd7b0ff6b.png)
+![image](https://github.com/Karankhatik/movie-app/assets/100562135/f4196563-8575-49a7-8ccd-39168beb6e13)
 
 ## Book Ticket
-![image](https://user-images.githubusercontent.com/100562135/236326809-30f9add7-ae2a-4d03-aafb-430d15e27f1a.png)
-
-# In mobile mode
-
-## Movie List
-![image](https://user-images.githubusercontent.com/100562135/236327166-7561e6e5-ac1e-42e1-9993-19f69917a109.png)
-
-## Movie Summary
-![image](https://user-images.githubusercontent.com/100562135/236327611-4f6fcc62-fdfe-44c5-8d40-31330273cf07.png)
-
-## Book Ticket
-![image](https://user-images.githubusercontent.com/100562135/236327824-f67aab07-2a55-4656-b1fa-ab003f902770.png)
+![image](https://github.com/Karankhatik/movie-app/assets/100562135/0c2afa91-eef7-49fe-bded-00407302af45)
 
 
-"# movie-app" 
